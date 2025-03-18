@@ -1,1 +1,1 @@
-This is a change from branch1
+This is a combined change from branch1 and branch2.
