@@ -1,0 +1,21 @@
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.temp
+*.swp
+
+# Ignore compiled files
+
+*.class
+*.exe
+*.o
+
+# Ignore Environmental files
+
+.env
+
+# Ignore build or output directories
+
+dist/
+build/
