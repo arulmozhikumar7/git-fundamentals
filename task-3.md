@@ -1,0 +1,17 @@
+MAKING CHANGES AND UNDOING WITH RESTORE 
+BEFORE RESTORE COMMAND
+![alt text](image-3.png)
+AFTER RESTORE COMMAND
+![alt text](image-4.png)
+
+MAKING CHANGES AND UNDOING WITH CHECKOUT --
+BEFORE CHECKOUT COMMAND
+![alt text](image-5.png)
+AFTER CHECKOUT COMMAND
+![alt text](image-6.png)
+
+UNDOING COMMIT WITH REVERT
+![alt text](image-7.png)
+
+UNDOING COMMIT WITH RESET
+![alt text](image-8.png)
